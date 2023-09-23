@@ -1,3 +1,5 @@
+# Created by Avnish Singh - IN
+
 key = input("Enter the key : ")
 key = key.replace(" ", "")
 key = key.upper()
